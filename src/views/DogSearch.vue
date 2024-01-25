@@ -334,10 +334,11 @@ h3 {
  h5{
   display: flex;
   flex-direction: column;
-  max-width: 400px;
+
   margin: auto;
   background-color: #fff;
   padding: 20px;
+  
   border-radius: 10px;
     color: green;
    
