@@ -333,7 +333,7 @@ h3 {
   }
  h5{
     color: green;
-    padding: 10px;
+    padding: 5px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
