@@ -332,8 +332,7 @@ h3 {
     justify-content: space-around;
   }
  h5{
-  background-color: #4caf50;
-    color: #fff;
+    color: green;
     padding: 10px;
     border: none;
     border-radius: 5px;
