@@ -331,7 +331,9 @@ h3 {
     flex-wrap: wrap;
     justify-content: space-around;
   }
-
+ h5{
+  color:black;
+}
   .Dog-Result {
     border: 1px solid #ccc;
     border-radius: 10px;
