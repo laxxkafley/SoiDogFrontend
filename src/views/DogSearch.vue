@@ -166,6 +166,7 @@ img{
         <input v-model="searchTerm.birth_date" type="text" placeholder="Birth Date" />
    <!-- Your form content here -->
    <button type="button" @click="submitSearch">Search</button>
+   <h5>Click Search button to see all the dogs</h5>
  
    
 
