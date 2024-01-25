@@ -162,8 +162,8 @@ img{
   
       <form @submit.prevent="submitSearch">
         <input v-model="searchTerm.name" type="text" placeholder="Name" />
-        <input v-model="searchTerm.sex" type="text" placeholder="Sex" />
-        <input v-model="searchTerm.birth_date" type="text" placeholder="Birth Date" />
+        <input v-model="searchTerm.sex" type="text" placeholder="Male or Female" />
+        <input v-model="searchTerm.birth_date" type="text" placeholder="year-month-date" />
    <!-- Your form content here -->
    <button type="button" @click="submitSearch">Search</button>
    <h5>Click Search button to see all the dogs</h5>
