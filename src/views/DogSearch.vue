@@ -332,7 +332,13 @@ h3 {
     justify-content: space-around;
   }
  h5{
-  color:black;
+  background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
 }
   .Dog-Result {
     border: 1px solid #ccc;
