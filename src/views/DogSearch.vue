@@ -333,9 +333,9 @@ h3 {
   }
  h5{
     color: green;
-    padding: 5px;
+    padding: 6px;
     border: none;
-    border-radius: 5px;
+    border-radius: 3px;
     cursor: pointer;
     font-size: 16px;
 }
