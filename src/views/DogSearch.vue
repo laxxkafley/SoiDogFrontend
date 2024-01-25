@@ -222,6 +222,12 @@ img{
   
           // Update the searchResults with the received data
           this.searchResults = response.data;
+
+          this.searchTerm = {
+        name: '',
+        sex: '',
+        birth_date: '',
+      };
         } catch (error) {
           console.error('Error fetching data:', error);
         }
