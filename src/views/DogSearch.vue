@@ -332,11 +332,15 @@ h3 {
     justify-content: space-around;
   }
  h5{
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
     color: green;
-    padding: 6px;
-    border: 1px solid green;
-    border-radius: 3px;
-    cursor: pointer;
+   
     font-size: 16px;
 }
   .Dog-Result {
